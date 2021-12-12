@@ -1,0 +1,24 @@
+//https://github.com/tysonmatanich/directional-scss
+// Default $dir if not valid
+// directional-scss | Author: Tyson Matanich (http://matanich.com), 2013 | License: MIT
+
+// Default $dir if not valid
+@if $dir != ltr and $dir != rtl {
+    $dir: ltr;
+}
+
+@function if-ltr($if, $else: null) {
+  @if $dir != rtl {
+    @return $if;
+  }
+  @else {
+    @return $else;
+  }
+}
+
+@function if-rtl($if, $else: null) {
+  @return if-ltr($else, $if);
+}
+
+$left: if-ltr(left, right);
+$right: if-ltr(right, left);

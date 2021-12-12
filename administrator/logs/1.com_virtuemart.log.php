@@ -1,0 +1,13 @@
+#
+#<?php die("Forbidden."); ?>
+
+2018-12-03 07:09:30 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:09:43 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:09:55 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:00 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:04 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:22 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:29 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:36 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:41 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;
+2018-12-03 07:10:49 ERROR vmError: Warning, the Safe Path is not configured yet. Use this link to the &lt;a href='http://localhost/sj_furni/administrator/index.php?option=com_virtuemart&amp;view=updatesmigration&amp;show_spwizard=1' &gt;setup wizard&lt;/a&gt;

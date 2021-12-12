@@ -1,0 +1,66 @@
+.megaslider a,
+.megaslider a span{
+	text-decoration:none;
+	text-align:left;
+	display:inline-block;
+}
+
+.megaslider a:hover,
+.megaslider a span:hover{
+	text-decoration:underline;
+}
+
+.megaslider .mgsl-wrap .mgsl-item .mgsl-item-info.style1 .mgsl-item-title span,
+.megaslider .mgsl-wrap .mgsl-item .mgsl-item-info.style1 .mgsl-item-title a{
+	font-family:arial;
+	font-size:24px;
+	color:#006699;
+	font-weight:normal;
+	display:block;
+} 
+
+.megaslider .mgsl-wrap .mgsl-item .mgsl-item-info.style1 .mgsl-item-description{
+	font-family:arial;
+	font-size:14px;
+	color:#000;
+	text-align:left;
+}
+
+.megaslider  .mgsl-control ul.pag-list-inner li.pag-item .item-info .item-title {
+	margin-bottom:3px;
+}
+
+.megaslider  .mgsl-control ul.pag-list-inner li.pag-item .item-info .item-title ,
+.megaslider  .mgsl-control ul.pag-list-inner li.pag-item .item-info .item-title  a{
+	text-align:left;
+	font-size:13px;
+	color:#000;
+	font-weight:bold;
+}
+
+.megaslider  .mgsl-control ul.pag-list-inner li.pag-item .item-info .item-description{
+	font-size:13px;
+	font-weight:normal;
+	text-align:left;
+	color:#000;
+	text-align:left;
+
+}
+ 
+.megaslider  .mgsl-item-info.style2 .mgsl-item-title span,
+.megaslider  .mgsl-item-info.style2 .mgsl-item-title a{
+	font-family:arial;
+	font-size:20px;
+	color:#006699;
+	font-weight:normal;
+	display:block;
+	text-align:left;
+} 
+
+.megaslider .mgsl-item-info.style2 .mgsl-item-description{
+	font-family:arial;
+	font-size:14px;
+	color:#000;
+	text-align:left;
+}
+
